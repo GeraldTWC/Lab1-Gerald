@@ -1,1 +1,1 @@
-print ("ET0745 - DevOps first lesson")
+print ("ET0745 - DevOps first lesson for AIOT")
