@@ -4,4 +4,4 @@
 
 [submodule "Lab1_submodule_fish"]
 	path = Lab1_submodule_fish
-	url = 
+	url = https://github.com/fishballmilktea/Lab1.git
